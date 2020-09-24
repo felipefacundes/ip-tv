@@ -1,2 +1,3 @@
-#RECORD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vCGt6FQ9jZ4/XQlbSeitKSI/AAAAAAAABFs/ihgbZR6mpdMUUN3ZYOyxWpqHhJBO-bSdgCPcBGAYYCw/s320/Screenshot_2019-06-18-18-11-15.png" group-title="TV Aberta" ,Record
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8
