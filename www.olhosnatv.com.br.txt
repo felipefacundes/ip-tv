@@ -8,3 +8,5 @@ https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist-480p.m3u8
 https://5a1c76baf08c0.streamlock.net/sbtinterior/1188a11bf381761a6d27ee6d93d69b75/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-uC4deyElL_8/XQlbM0oBjHI/AAAAAAAABFg/zseV6B_kos477by-zQizcbmJe3AtuyAGQCPcBGAYYCw/s320/Screenshot_2019-06-18-18-30-27.png" group-title="TV Aberta" ,"Band PA"
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+#EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180411/pfe/kisspng-paramount-pictures-logo-film-universal-pictures-heineken-5aced5e1eeef49.0834182515235046099787.jpg" group-title="TV Fechada" "Paramount"
+https://www.tibiadown.com/lineage-2-comemora-seu-aniversario-patrocinado-mmorpg-com/
